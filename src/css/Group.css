@@ -1,0 +1,17 @@
+.group {
+  background-color: rgba(255, 255, 255, 0.432);
+  padding: 1rem;
+  border-radius: 2rem;
+  width: 35vw;
+  margin: 1rem;
+  text-align: center;
+}
+
+@media screen and (max-width: 970px) {
+  .group h2 {
+    font-size: 0.7rem;
+  }
+  h2.group-title {
+    font-size: 1rem;
+  }
+}

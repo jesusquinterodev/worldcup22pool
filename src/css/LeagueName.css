@@ -1,0 +1,57 @@
+.league-name-styles {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+.league-name-styles h3 {
+  font-weight: 600;
+}
+
+.league-name {
+  background-color: rgba(255, 255, 255, 0.644);
+  width: 80%;
+}
+
+.league-points {
+  background: linear-gradient(to right, #abbaab, #ffffff);
+  width: 20%;
+  color: rgb(105, 11, 11);
+}
+
+.league-name,
+.league-points {
+  padding: 1rem;
+  min-height: 5vh;
+  border: 2px solid black;
+  max-height: 8vh;
+}
+
+.league-medal-img {
+  width: 2.5rem;
+  position: relative;
+  top: -0.8rem;
+}
+
+@media screen and (max-width: 970px) {
+  .league-medal-img {
+    width: 1.5rem;
+  }
+  .league-name h3,
+  .league-points h3 {
+    font-size: 1rem;
+  }
+
+  .league-name,
+  .league-points {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .league-medal-img {
+    top: 0;
+  }
+}

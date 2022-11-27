@@ -1,0 +1,72 @@
+.home {
+  min-height: 90vh;
+  padding-top: 10vh;
+}
+
+.home-images {
+  display: flex;
+  padding-top: 1rem;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.home h1 {
+  font-weight: 900;
+  font-size: 5rem;
+  padding: 2rem;
+  display: inline-block;
+  color: rgba(245, 245, 220, 0.733);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  border-radius: 0 0 1rem 1rem;
+  text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 255, 255, 0.11);
+}
+
+.home-img {
+  width: 25%;
+  padding: 2rem;
+}
+
+.home-text {
+  color: beige;
+  border: 1px solid #000;
+  border-radius: 1rem;
+  padding: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.home-text h2 {
+  font-size: 3rem;
+  font-weight: 600;
+  padding: 1rem 0;
+}
+
+.home-text h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-align: left;
+}
+
+.home-text p {
+  font-weight: 400;
+  font-size: 1rem;
+  padding: 1rem 0;
+  text-align: left;
+}
+
+@media screen and (max-width: 970px) {
+  .home h1 {
+    font-size: 3rem;
+  }
+  .home-text h2 {
+    font-size: 1.5rem;
+  }
+  .home-text h3 {
+    font-size: 1.1rem;
+  }
+  .home-text p {
+    font-size: 0.8rem;
+  }
+}

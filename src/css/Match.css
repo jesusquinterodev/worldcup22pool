@@ -1,0 +1,77 @@
+.match-container {
+  display: flex;
+  width: 30vw;
+  margin: 1rem;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.teams {
+  background-color: #ffffff;
+  height: 5vh;
+  width: 15vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+}
+
+.team-1 {
+  border-radius: 2rem 0 0 2rem;
+}
+
+.team-2 {
+  border-radius: 0 2rem 2rem 0;
+}
+
+.score {
+  background-color: rgb(226, 223, 223);
+  height: 5vh;
+  width: 2vw;
+}
+
+.score h2 {
+  font-weight: 600;
+}
+
+.teams,
+.score {
+  border: 1px solid #000000;
+  font-size: 0.7rem;
+  color: black;
+  padding: 0.3rem;
+}
+
+.flag-img {
+  width: 1.3rem;
+  margin: 0 0.3rem;
+  position: absolute;
+}
+
+.flag-left {
+  left: 0;
+}
+
+.flag-right {
+  right: 0;
+}
+
+@media screen and (max-width: 970px) {
+  .flag-img {
+    width: 0.8rem;
+  }
+  .score h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    bottom: 0.15rem;
+  }
+  .match-container {
+    position: relative;
+    left: -0.7rem;
+  }
+}

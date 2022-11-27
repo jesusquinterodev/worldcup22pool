@@ -1,0 +1,27 @@
+.name-title {
+  font-size: 3rem;
+  font-weight: 600;
+  color: beige;
+  margin-top: 1rem;
+  padding-top: 4rem;
+}
+
+.date-title {
+  font-size: 2rem;
+  color: beige;
+  padding-bottom: 2rem;
+}
+
+.titles {
+  background-color: rgba(0, 0, 0, 0.26);
+}
+
+@media screen and (max-width: 970px) {
+  .name-title {
+    font-size: 2rem;
+  }
+  .date-title {
+    font-size: 1rem;
+    padding-bottom: 0.5rem;
+  }
+}

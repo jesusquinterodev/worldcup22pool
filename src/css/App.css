@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: rgb(105, 11, 11);
+}
+
+.div-app {
+  text-align: center;
+  min-height: 100vh;
+}
+
+/* .name-title {
+  font-size: 3rem;
+  font-weight: 600;
+  color: beige;
+  margin-top: 1rem;
+}
+
+.date-title {
+  font-size: 2rem;
+  color: beige;
+} */
+
+@media screen and (orientation: portrait) {
+  .div-app {
+    opacity: 0;
+    visibility: hidden;
+  }
+  body {
+    background-image: url("https://i.ytimg.com/vi/zDSiusPOia4/maxresdefault.jpg");
+    background-position: 44%;
+  }
+}
+
+@media screen and (max-width: 970px) {
+  body {
+    font-size: 1rem;
+  }
+}
