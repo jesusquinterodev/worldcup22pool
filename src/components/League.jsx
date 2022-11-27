@@ -15,7 +15,7 @@ const League = () => {
       <div className="league">
         <LeagueName
           name="Shoali"
-          points="23pts"
+          points="24pts"
           medal="https://cdn0.iconfinder.com/data/icons/sport-balls/512/gold_medal.png"
         />
         <LeagueName

@@ -3438,8 +3438,8 @@ export const users = [
       },
       {
         char: "E",
-        fTeam: "",
-        sTeam: "",
+        fTeam: 0,
+        sTeam: 1,
         tTeam: "",
         lTeam: "",
         fFlag: "germany.png",
@@ -3449,8 +3449,8 @@ export const users = [
       },
       {
         char: "F",
-        fTeam: "",
-        sTeam: "",
+        fTeam: 0,
+        sTeam: 2,
         tTeam: "",
         lTeam: "",
         fFlag: "morocco.png",

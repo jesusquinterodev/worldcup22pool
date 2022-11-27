@@ -6,7 +6,7 @@ const Match = (props) => {
     <article className="match-container">
       <div className="teams team-1">
         <img
-          src={"../flag-icons/" + props.hostFlag}
+          src={"../src/assets/flag-icons/" + props.hostFlag}
           alt=""
           className="flag-img flag-left"
         />
@@ -21,7 +21,7 @@ const Match = (props) => {
       <div className="teams team-2">
         <h2>{props.visit}</h2>
         <img
-          src={"../flag-icons/" + props.visitFlag}
+          src={"../src/assets/flag-icons/" + props.visitFlag}
           alt=""
           className="flag-img flag-right"
         />
