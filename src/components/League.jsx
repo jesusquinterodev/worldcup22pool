@@ -15,7 +15,7 @@ const League = () => {
       <div className="league">
         <LeagueName
           name="Shoali"
-          points="24pts"
+          points="26pts"
           medal="https://cdn0.iconfinder.com/data/icons/sport-balls/512/gold_medal.png"
         />
         <LeagueName
@@ -25,7 +25,7 @@ const League = () => {
         />
         <LeagueName
           name="Lauri"
-          points="17pts"
+          points="18pts"
           medal="https://cdn0.iconfinder.com/data/icons/sport-balls/512/bronze_medal.png"
         />
         <LeagueName
@@ -35,12 +35,12 @@ const League = () => {
         />
         <LeagueName
           name="Nano"
-          points="15pts"
+          points="16pts"
           medal="https://www.meme-arsenal.com/memes/ff4b2dea60a357faa706e4b2383a2a9b.jpg"
         />
         <LeagueName
           name="Chuchantrio"
-          points="13pts"
+          points="14pts"
           medal="https://static-cdn.jtvnw.net/jtv_user_pictures/02191ca0-0cf9-47b6-87c5-1933b54bd964-profile_image-300x300.png"
         />
       </div>
