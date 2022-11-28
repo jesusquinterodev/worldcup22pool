@@ -36,8 +36,11 @@ body {
     visibility: hidden;
   }
   body {
-    background-image: url("https://i.ytimg.com/vi/zDSiusPOia4/maxresdefault.jpg");
-    background-position: 44%;
+    background-image: url("https://cdn131.picsart.com/6787ed88-ed56-44b9-ac4a-83603ce52f04/407300785025201.jpg?to=crop&type=webp&r=540x960&q=85");
+    background-repeat: no-repeat;
+    background-size: 122vw 122vh;
+    width: 100vw;
+    height: 100vh;
   }
 }
 
