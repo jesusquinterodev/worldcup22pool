@@ -3460,8 +3460,8 @@ export const users = [
       },
       {
         char: "G",
-        fTeam: "",
-        sTeam: "",
+        fTeam: 3,
+        sTeam: 3,
         tTeam: "",
         lTeam: "",
         fFlag: "switzerland.png",

@@ -25,7 +25,7 @@ const League = () => {
         />
         <LeagueName
           name="Lauri"
-          points="18pts"
+          points="19pts"
           medal="https://cdn0.iconfinder.com/data/icons/sport-balls/512/bronze_medal.png"
         />
         <LeagueName
@@ -40,7 +40,7 @@ const League = () => {
         />
         <LeagueName
           name="Chuchantrio"
-          points="14pts"
+          points="15pts"
           medal="https://static-cdn.jtvnw.net/jtv_user_pictures/02191ca0-0cf9-47b6-87c5-1933b54bd964-profile_image-300x300.png"
         />
       </div>
