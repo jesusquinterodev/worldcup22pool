@@ -3471,8 +3471,8 @@ export const users = [
       },
       {
         char: "H",
-        fTeam: "",
-        sTeam: "",
+        fTeam: 2,
+        sTeam: 3,
         tTeam: "",
         lTeam: "",
         fFlag: "uruguay.png",
