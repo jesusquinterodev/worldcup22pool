@@ -12,9 +12,9 @@ export const users = [
     matchData: [
       {
         char: "a1b2",
-        fTeam: "A1",
+        fTeam: "Holanda",
         sTeam: "B2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197441.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -40,9 +40,9 @@ export const users = [
       {
         char: "b1a2",
         fTeam: "B1",
-        sTeam: "A2",
+        sTeam: "Senegal",
         fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
-        sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        sFlag: "https://cdn-icons-png.flaticon.com/512/197/197377.png",
         fScore: "",
         sScore: "",
       },
@@ -637,9 +637,9 @@ export const users = [
     matchData: [
       {
         char: "a1b2",
-        fTeam: "A1",
+        fTeam: "Holanda",
         sTeam: "B2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197441.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -665,9 +665,9 @@ export const users = [
       {
         char: "b1a2",
         fTeam: "B1",
-        sTeam: "A2",
+        sTeam: "Senegal",
         fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
-        sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        sFlag: "https://cdn-icons-png.flaticon.com/512/197/197377.png",
         fScore: "",
         sScore: "",
       },
@@ -1262,9 +1262,9 @@ export const users = [
     matchData: [
       {
         char: "a1b2",
-        fTeam: "A1",
+        fTeam: "Holanda",
         sTeam: "B2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197441.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -1290,9 +1290,9 @@ export const users = [
       {
         char: "b1a2",
         fTeam: "B1",
-        sTeam: "A2",
+        sTeam: "Senegal",
         fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
-        sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        sFlag: "https://cdn-icons-png.flaticon.com/512/197/197377.png",
         fScore: "",
         sScore: "",
       },
@@ -1887,9 +1887,9 @@ export const users = [
     matchData: [
       {
         char: "a1b2",
-        fTeam: "A1",
+        fTeam: "Holanda",
         sTeam: "B2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197441.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -1915,9 +1915,9 @@ export const users = [
       {
         char: "b1a2",
         fTeam: "B1",
-        sTeam: "A2",
+        sTeam: "Senegal",
         fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
-        sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        sFlag: "https://cdn-icons-png.flaticon.com/512/197/197377.png",
         fScore: "",
         sScore: "",
       },
@@ -2512,9 +2512,9 @@ export const users = [
     matchData: [
       {
         char: "a1b2",
-        fTeam: "A1",
+        fTeam: "Holanda",
         sTeam: "B2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197441.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -2540,9 +2540,9 @@ export const users = [
       {
         char: "b1a2",
         fTeam: "B1",
-        sTeam: "A2",
+        sTeam: "Senegal",
         fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
-        sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        sFlag: "https://cdn-icons-png.flaticon.com/512/197/197377.png",
         fScore: "",
         sScore: "",
       },
@@ -3137,9 +3137,9 @@ export const users = [
     matchData: [
       {
         char: "a1b2",
-        fTeam: "A1",
+        fTeam: "Holanda",
         sTeam: "B2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197441.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -3165,9 +3165,9 @@ export const users = [
       {
         char: "b1a2",
         fTeam: "B1",
-        sTeam: "A2",
+        sTeam: "Senegal",
         fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
-        sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        sFlag: "https://cdn-icons-png.flaticon.com/512/197/197377.png",
         fScore: "",
         sScore: "",
       },
@@ -3762,9 +3762,9 @@ export const users = [
     matchData: [
       {
         char: "a1b2",
-        fTeam: "A1",
+        fTeam: "Holanda",
         sTeam: "B2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197441.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -3790,9 +3790,9 @@ export const users = [
       {
         char: "b1a2",
         fTeam: "B1",
-        sTeam: "A2",
+        sTeam: "Senegal",
         fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
-        sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        sFlag: "https://cdn-icons-png.flaticon.com/512/197/197377.png",
         fScore: "",
         sScore: "",
       },
@@ -4016,10 +4016,10 @@ export const users = [
     results3: [
       {
         char: "A",
-        fTeam: "",
-        sTeam: "",
-        tTeam: "",
-        lTeam: "",
+        fTeam: 2,
+        sTeam: 0,
+        tTeam: 1,
+        lTeam: 2,
         fFlag: "qatar.png",
         sFlag: "ecuador.png",
         tFlag: "senegal.png",
