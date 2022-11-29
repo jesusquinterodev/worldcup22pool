@@ -8,6 +8,7 @@ import Footer from "./components/Footer";
 import Home from "./components/Home";
 import { users } from "./data";
 import "./css/App.css";
+import Playoffs from "./components/Playoffs";
 
 function App() {
   return (
@@ -37,6 +38,12 @@ function App() {
               results={user.results3}
               groupsData={user.groupsData3}
               id={user.id3}
+            />
+            <Playoffs
+              name={user.name}
+              date={user.date4}
+              matchData={user.matchData}
+              id={user.id4}
             />
           </>
         );

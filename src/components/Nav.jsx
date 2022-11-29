@@ -25,6 +25,9 @@ const Nav = () => {
           <a href="#lule3" className="nav-inside-link">
             Fecha 3
           </a>
+          <a href="#lule4" className="nav-inside-link">
+            Octavos
+          </a>
         </div>
       </div>
       <div className="nav-link">
@@ -40,6 +43,9 @@ const Nav = () => {
           </a>
           <a href="#chuchantrio3" className="nav-inside-link">
             Fecha 3
+          </a>
+          <a href="#chuchantrio4" className="nav-inside-link">
+            Octavos
           </a>
         </div>
       </div>
@@ -57,6 +63,9 @@ const Nav = () => {
           <a href="#lauri3" className="nav-inside-link">
             Fecha 3
           </a>
+          <a href="#lauri4" className="nav-inside-link">
+            Octavos
+          </a>
         </div>
       </div>
       <div className="nav-link">
@@ -72,6 +81,9 @@ const Nav = () => {
           </a>
           <a href="#nano3" className="nav-inside-link">
             Fecha 3
+          </a>
+          <a href="#nano4" className="nav-inside-link">
+            Octavos
           </a>
         </div>
       </div>
@@ -89,6 +101,9 @@ const Nav = () => {
           <a href="#jeezy3" className="nav-inside-link">
             Fecha 3
           </a>
+          <a href="#jeezy4" className="nav-inside-link">
+            Octavos
+          </a>
         </div>
       </div>
       <div className="nav-link">
@@ -105,16 +120,37 @@ const Nav = () => {
           <a href="#shoali3" className="nav-inside-link">
             Fecha 3
           </a>
+          <a href="#shoali4" className="nav-inside-link">
+            Octavos
+          </a>
         </div>
       </div>
-      <a href="#resultados">
-        <img
-          src="http://cdn.onlinewebfonts.com/svg/img_531959.png"
-          alt=""
-          className="nav-logo"
-          title="Resultados reales"
-        />
-      </a>
+      {/* Prueba */}
+      <div className="nav-link">
+        <a href="#resultados" className="nav-outside-link">
+          <img
+            src="http://cdn.onlinewebfonts.com/svg/img_531959.png"
+            alt=""
+            className="nav-logo"
+            title="Resultados reales"
+          />{" "}
+          <span className="span-arrow"> ▼ </span>
+        </a>
+        <div className="nav-link-dropdown">
+          <a href="#resultados" className="nav-inside-link">
+            Fecha 1
+          </a>
+          <a href="#resultados2" className="nav-inside-link">
+            Fecha 2
+          </a>
+          <a href="#resultados3" className="nav-inside-link">
+            Fecha 3
+          </a>
+          <a href="#resultados4" className="nav-inside-link">
+            Octavos
+          </a>
+        </div>
+      </div>
       <a href="#tabla">
         {" "}
         <img

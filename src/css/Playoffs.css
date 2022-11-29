@@ -1,0 +1,14 @@
+.playoffs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 3rem 1rem 0;
+}
+
+@media screen and (max-width: 970px) {
+  .playoffs h2 {
+    font-size: 0.7rem;
+  }
+}
