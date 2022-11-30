@@ -15,32 +15,32 @@ const League = () => {
       <div className="league">
         <LeagueName
           name="Shoali"
-          points="29pts"
+          points="31pts"
           medal="https://cdn0.iconfinder.com/data/icons/sport-balls/512/gold_medal.png"
         />
         <LeagueName
           name="Lule"
-          points="26pts"
+          points="27pts"
           medal="https://cdn0.iconfinder.com/data/icons/sport-balls/512/silver_medal.png"
         />
         <LeagueName
           name="Lauri"
-          points="24pts"
+          points="25pts"
           medal="https://cdn0.iconfinder.com/data/icons/sport-balls/512/bronze_medal.png"
         />
         <LeagueName
           name="Nano"
-          points="21pts"
+          points="23pts"
           medal="https://cdn.shopify.com/s/files/1/0596/9399/0049/files/Untitled-1_0002_Layer-8.png"
         />
         <LeagueName
-          name="Jeezy"
-          points="19pts"
+          name="Chuchantrio"
+          points="23pts"
           medal="https://www.meme-arsenal.com/memes/ff4b2dea60a357faa706e4b2383a2a9b.jpg"
         />
         <LeagueName
-          name="Chuchantrio"
-          points="17pts"
+          name="Jeezy"
+          points="21pts"
           medal="https://static-cdn.jtvnw.net/jtv_user_pictures/02191ca0-0cf9-47b6-87c5-1933b54bd964-profile_image-300x300.png"
         />
       </div>
