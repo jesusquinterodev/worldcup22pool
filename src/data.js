@@ -1446,8 +1446,8 @@ export const users = [
         sTeam: "Suiza",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197463.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197540.png",
-        fScore: "2*",
-        sScore: 2,
+        fScore: 2,
+        sScore: 1,
       },
     ],
     results: [
