@@ -43,12 +43,67 @@ function App() {
               name={user.name}
               date={user.date4}
               matchData={user.matchData}
+              quartersData={user.quartersData}
               id={user.id4}
+              idQF={user.id5}
             />
           </>
         );
       })}
-      <League />
+      <League
+        userData="Fase de Grupos"
+        id="tabla"
+        first="Shoali"
+        fPoints="37pts"
+        second="Lule"
+        sPoints="32pts"
+        third="Chuchantrio"
+        tPoints="30pts"
+        fourth="Nano"
+        fPoints4="30pts"
+        fifth="Lauri"
+        fPoints5="29pts"
+        sixth="Jeezy"
+        sPoints6="27pts"
+        seventh="Ceci (No participó)"
+        sPoints7="00pts"
+      />
+      <League
+        userData="Fase Final"
+        id="tablaFinal"
+        first="Shoali"
+        fPoints="0pts"
+        second="Lule"
+        sPoints="0pts"
+        third="Chuchantrio"
+        tPoints="0pts"
+        fourth="Nano"
+        fPoints4="0pts"
+        fifth="Lauri"
+        fPoints5="0pts"
+        sixth="Jeezy"
+        sPoints6="0pts"
+        seventh="Ceci"
+        sPoints7="0pts"
+      />
+      <League
+        userData="Acumulado Total"
+        id="tablaAcumulado"
+        first="Shoali"
+        fPoints="37pts"
+        second="Lule"
+        sPoints="32pts"
+        third="Chuchantrio"
+        tPoints="30pts"
+        fourth="Nano"
+        fPoints4="30pts"
+        fifth="Lauri"
+        fPoints5="29pts"
+        sixth="Jeezy"
+        sPoints6="27pts"
+        seventh="Ceci"
+        sPoints7="00pts"
+      />
       <Footer />
     </div>
   );

@@ -28,6 +28,9 @@ const Nav = () => {
           <a href="#lule4" className="nav-inside-link">
             Octavos
           </a>
+          <a href="#lule5" className="nav-inside-link">
+            Cuartos
+          </a>
         </div>
       </div>
       <div className="nav-link">
@@ -46,6 +49,9 @@ const Nav = () => {
           </a>
           <a href="#chuchantrio4" className="nav-inside-link">
             Octavos
+          </a>
+          <a href="#chuchantrio5" className="nav-inside-link">
+            Cuartos
           </a>
         </div>
       </div>
@@ -66,6 +72,9 @@ const Nav = () => {
           <a href="#lauri4" className="nav-inside-link">
             Octavos
           </a>
+          <a href="#lauri5" className="nav-inside-link">
+            Cuartos
+          </a>
         </div>
       </div>
       <div className="nav-link">
@@ -84,6 +93,9 @@ const Nav = () => {
           </a>
           <a href="#nano4" className="nav-inside-link">
             Octavos
+          </a>
+          <a href="#nano5" className="nav-inside-link">
+            Cuartos
           </a>
         </div>
       </div>
@@ -104,6 +116,9 @@ const Nav = () => {
           <a href="#jeezy4" className="nav-inside-link">
             Octavos
           </a>
+          <a href="#jeezy5" className="nav-inside-link">
+            Cuartos
+          </a>
         </div>
       </div>
       <div className="nav-link">
@@ -122,6 +137,31 @@ const Nav = () => {
           </a>
           <a href="#shoali4" className="nav-inside-link">
             Octavos
+          </a>
+          <a href="#shoali5" className="nav-inside-link">
+            Cuartos
+          </a>
+        </div>
+      </div>
+      <div className="nav-link">
+        <a href="#ceci" className="nav-outside-link">
+          Ceci ▼
+        </a>
+        <div className="nav-link-dropdown">
+          <a href="#ceci" className="nav-inside-link">
+            Fecha 1
+          </a>
+          <a href="#ceci2" className="nav-inside-link">
+            Fecha 2
+          </a>
+          <a href="#ceci3" className="nav-inside-link">
+            Fecha 3
+          </a>
+          <a href="#ceci4" className="nav-inside-link">
+            Octavos
+          </a>
+          <a href="#ceci5" className="nav-inside-link">
+            Cuartos
           </a>
         </div>
       </div>
@@ -149,9 +189,35 @@ const Nav = () => {
           <a href="#resultados4" className="nav-inside-link">
             Octavos
           </a>
+          <a href="#resultados5" className="nav-inside-link">
+            Cuartos
+          </a>
         </div>
       </div>
-      <a href="#tabla">
+
+      <div className="nav-link">
+        <a href="#tabla" className="nav-outside-link">
+          <img
+            src="https://cdn-icons-png.flaticon.com/512/1599/1599930.png"
+            alt=""
+            className="nav-logo"
+            title="Tabla de puntos"
+          />{" "}
+          <span className="span-arrow"> ▼ </span>
+        </a>
+        <div className="nav-link-dropdown">
+          <a href="#tabla" className="nav-inside-link">
+            Grupos
+          </a>
+          <a href="#tablaFinal" className="nav-inside-link">
+            Elim.
+          </a>
+          <a href="#tablaAcumulado" className="nav-inside-link">
+            Total
+          </a>
+        </div>
+      </div>
+      {/* <a href="#tabla">
         {" "}
         <img
           src="https://cdn-icons-png.flaticon.com/512/1599/1599930.png"
@@ -159,7 +225,7 @@ const Nav = () => {
           className="nav-logo"
           title="Tabla de puntos"
         />{" "}
-      </a>
+      </a> */}
     </nav>
   );
 };
