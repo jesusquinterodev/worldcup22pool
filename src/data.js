@@ -13,9 +13,9 @@ export const users = [
     quartersData: [
       {
         char: "q1",
-        fTeam: "A1/B2",
+        fTeam: "Holanda",
         sTeam: "C1/D2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197441.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -677,9 +677,9 @@ export const users = [
     quartersData: [
       {
         char: "q1",
-        fTeam: "A1/B2",
+        fTeam: "Holanda",
         sTeam: "C1/D2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197441.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -1341,9 +1341,9 @@ export const users = [
     quartersData: [
       {
         char: "q1",
-        fTeam: "A1/B2",
+        fTeam: "Holanda",
         sTeam: "C1/D2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197441.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -2005,9 +2005,9 @@ export const users = [
     quartersData: [
       {
         char: "q1",
-        fTeam: "A1/B2",
+        fTeam: "Holanda",
         sTeam: "C1/D2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197441.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -2669,9 +2669,9 @@ export const users = [
     quartersData: [
       {
         char: "q1",
-        fTeam: "A1/B2",
+        fTeam: "Holanda",
         sTeam: "C1/D2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197441.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -3333,9 +3333,9 @@ export const users = [
     quartersData: [
       {
         char: "q1",
-        fTeam: "A1/B2",
+        fTeam: "Holanda",
         sTeam: "C1/D2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197441.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -3997,9 +3997,9 @@ export const users = [
     quartersData: [
       {
         char: "q1",
-        fTeam: "A1/B2",
+        fTeam: "Holanda",
         sTeam: "C1/D2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197441.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -4661,9 +4661,9 @@ export const users = [
     quartersData: [
       {
         char: "q1",
-        fTeam: "A1/B2",
+        fTeam: "Holanda",
         sTeam: "C1/D2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197441.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -4703,8 +4703,8 @@ export const users = [
         sTeam: "EEUU",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197441.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197484.png",
-        fScore: "",
-        sScore: "",
+        fScore: 3,
+        sScore: 1,
       },
       {
         char: "c1d2",
