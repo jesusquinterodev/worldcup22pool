@@ -79,10 +79,10 @@ function App() {
         tPoints="7pts"
         fourth="Shoali"
         fPoints4="6pts"
-        fifth="Jeezy"
+        fifth="Ceci"
         fPoints5="5pts"
-        sixth="Ceci"
-        sPoints6="4pts"
+        sixth="Jeezy"
+        sPoints6="5pts"
         seventh="Lauri"
         sPoints7="4pts"
       />
@@ -102,7 +102,7 @@ function App() {
         sixth="Jeezy"
         sPoints6="32pts"
         seventh="Ceci"
-        sPoints7="04pts"
+        sPoints7="05pts"
       />
       <Footer />
     </div>
