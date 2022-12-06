@@ -129,7 +129,7 @@ export const users = [
         sTeam: 1,
         tTeam: 1,
         lTeam: 2,
-        fFlag: "qatar.png",
+        fFlag: "qatar.pngg",
         sFlag: "ecuador.png",
         tFlag: "senegal.png",
         lFlag: "netherlands.png",
