@@ -1,0 +1,92 @@
+.match-containerP {
+  display: flex;
+  width: 50vw;
+  margin: 1rem;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.teamsP {
+  background-color: #ffffff;
+  height: 8vh;
+  width: 18vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+}
+
+.team-1P {
+  border-radius: 2rem 0 0 2rem;
+}
+
+.team-2P {
+  border-radius: 0 2rem 2rem 0;
+}
+
+.scoreP {
+  background-color: rgb(226, 223, 223);
+  height: 8vh;
+  width: 4vw;
+}
+
+.scoreP h2 {
+  font-weight: 600;
+}
+
+.teamsP,
+.scoreP {
+  border: 1px solid #000000;
+  font-size: 1rem;
+  color: black;
+  padding: 0.3rem;
+}
+
+.flag-imgP {
+  width: 3rem;
+  margin: 0 0.3rem;
+  position: absolute;
+}
+
+.flag-leftP {
+  left: 0;
+}
+
+.flag-rightP {
+  right: 0;
+}
+
+@media screen and (max-width: 970px) {
+  .flag-imgP {
+    width: 3rem;
+  }
+
+  .teamsP {
+    min-height: 15vh;
+    min-width: 25vw;
+  }
+
+  .scoreP {
+    min-height: 15vh;
+    min-width: 6vw;
+  }
+
+  .scoreP h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    bottom: 0.15rem;
+  }
+
+  .playoffs h2.inner-title {
+    font-size: 1.2rem;
+  }
+  /* .match-containerP {
+    position: relative;
+    left: -0.2rem;
+  } */
+}

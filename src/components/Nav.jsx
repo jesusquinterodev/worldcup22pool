@@ -31,6 +31,15 @@ const Nav = () => {
           <a href="#lule5" className="nav-inside-link">
             Cuartos
           </a>
+          <a href="#lule6" className="nav-inside-link">
+            Semis
+          </a>
+          <a href="#lule7" className="nav-inside-link">
+            3er y 4to
+          </a>
+          <a href="#lule8" className="nav-inside-link">
+            FINAL
+          </a>
         </div>
       </div>
       <div className="nav-link">
@@ -52,6 +61,15 @@ const Nav = () => {
           </a>
           <a href="#chuchantrio5" className="nav-inside-link">
             Cuartos
+          </a>
+          <a href="#chuchantrio6" className="nav-inside-link">
+            Semis
+          </a>
+          <a href="#chuchantrio7" className="nav-inside-link">
+            3er y 4to
+          </a>
+          <a href="#chuchantrio8" className="nav-inside-link">
+            FINAL
           </a>
         </div>
       </div>
@@ -75,6 +93,15 @@ const Nav = () => {
           <a href="#lauri5" className="nav-inside-link">
             Cuartos
           </a>
+          <a href="#lauri6" className="nav-inside-link">
+            Semis
+          </a>
+          <a href="#lauri7" className="nav-inside-link">
+            3er y 4to
+          </a>
+          <a href="#lauri8" className="nav-inside-link">
+            FINAL
+          </a>
         </div>
       </div>
       <div className="nav-link">
@@ -96,6 +123,15 @@ const Nav = () => {
           </a>
           <a href="#nano5" className="nav-inside-link">
             Cuartos
+          </a>
+          <a href="#nano6" className="nav-inside-link">
+            Semis
+          </a>
+          <a href="#nano7" className="nav-inside-link">
+            3er y 4to
+          </a>
+          <a href="#nano8" className="nav-inside-link">
+            FINAL
           </a>
         </div>
       </div>
@@ -119,6 +155,15 @@ const Nav = () => {
           <a href="#jeezy5" className="nav-inside-link">
             Cuartos
           </a>
+          <a href="#jeezy6" className="nav-inside-link">
+            Semis
+          </a>
+          <a href="#jeezy7" className="nav-inside-link">
+            3er y 4to
+          </a>
+          <a href="#jeezy8" className="nav-inside-link">
+            FINAL
+          </a>
         </div>
       </div>
       <div className="nav-link">
@@ -141,6 +186,15 @@ const Nav = () => {
           <a href="#shoali5" className="nav-inside-link">
             Cuartos
           </a>
+          <a href="#shoali6" className="nav-inside-link">
+            Semis
+          </a>
+          <a href="#shoali7" className="nav-inside-link">
+            3er y 4to
+          </a>
+          <a href="#shoali8" className="nav-inside-link">
+            FINAL
+          </a>
         </div>
       </div>
       <div className="nav-link">
@@ -162,6 +216,15 @@ const Nav = () => {
           </a>
           <a href="#ceci5" className="nav-inside-link">
             Cuartos
+          </a>
+          <a href="#ceci6" className="nav-inside-link">
+            Semis
+          </a>
+          <a href="#ceci7" className="nav-inside-link">
+            3er y 4to
+          </a>
+          <a href="#ceci8" className="nav-inside-link">
+            FINAL
           </a>
         </div>
       </div>
@@ -191,6 +254,15 @@ const Nav = () => {
           </a>
           <a href="#resultados5" className="nav-inside-link">
             Cuartos
+          </a>
+          <a href="#resultados6" className="nav-inside-link">
+            Semis
+          </a>
+          <a href="#resultados7" className="nav-inside-link">
+            3er y 4to
+          </a>
+          <a href="#resultados8" className="nav-inside-link">
+            FINAL
           </a>
         </div>
       </div>

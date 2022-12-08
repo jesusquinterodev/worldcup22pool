@@ -46,6 +46,12 @@ function App() {
               quartersData={user.quartersData}
               id={user.id4}
               idQF={user.id5}
+              semisData={user.semisData}
+              idSF={user.id6}
+              bronzeData={user.bronzeData}
+              idBrz={user.id7}
+              finalData={user.finalData}
+              idFinal={user.id8}
             />
           </>
         );
