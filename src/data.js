@@ -16,9 +16,9 @@ export const users = [
     finalData: [
       {
         char: "",
-        fTeam: "WSF1",
+        fTeam: "Argentina",
         sTeam: "WSF2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197573.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -27,9 +27,9 @@ export const users = [
     bronzeData: [
       {
         char: "",
-        fTeam: "LSF1",
+        fTeam: "Croacia",
         sTeam: "LSF2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197503.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -42,8 +42,8 @@ export const users = [
         sTeam: "Croacia",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197573.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197503.png",
-        fScore: "",
-        sScore: "",
+        fScore: 2,
+        sScore: 1,
       },
       {
         char: "q2",
@@ -51,8 +51,8 @@ export const users = [
         sTeam: "Marruecos",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197560.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197551.png",
-        fScore: "",
-        sScore: "",
+        fScore: 1,
+        sScore: "1*",
       },
     ],
     quartersData: [
@@ -725,9 +725,9 @@ export const users = [
     finalData: [
       {
         char: "",
-        fTeam: "WSF1",
+        fTeam: "Argentina",
         sTeam: "WSF2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197573.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -736,9 +736,9 @@ export const users = [
     bronzeData: [
       {
         char: "",
-        fTeam: "LSF1",
+        fTeam: "Croacia",
         sTeam: "LSF2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197503.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -751,8 +751,8 @@ export const users = [
         sTeam: "Croacia",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197573.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197503.png",
-        fScore: "",
-        sScore: "",
+        fScore: 1,
+        sScore: 0,
       },
       {
         char: "q2",
@@ -760,8 +760,8 @@ export const users = [
         sTeam: "Marruecos",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197560.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197551.png",
-        fScore: "",
-        sScore: "",
+        fScore: 2,
+        sScore: 1,
       },
     ],
     quartersData: [
@@ -1434,9 +1434,9 @@ export const users = [
     finalData: [
       {
         char: "",
-        fTeam: "WSF1",
+        fTeam: "Argentina",
         sTeam: "WSF2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197573.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -1445,9 +1445,9 @@ export const users = [
     bronzeData: [
       {
         char: "",
-        fTeam: "LSF1",
+        fTeam: "Croacia",
         sTeam: "LSF2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197503.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -1460,8 +1460,8 @@ export const users = [
         sTeam: "Croacia",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197573.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197503.png",
-        fScore: "",
-        sScore: "",
+        fScore: 2,
+        sScore: 1,
       },
       {
         char: "q2",
@@ -1469,8 +1469,8 @@ export const users = [
         sTeam: "Marruecos",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197560.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197551.png",
-        fScore: "",
-        sScore: "",
+        fScore: 2,
+        sScore: "2*",
       },
     ],
     quartersData: [
@@ -2143,9 +2143,9 @@ export const users = [
     finalData: [
       {
         char: "",
-        fTeam: "WSF1",
+        fTeam: "Argentina",
         sTeam: "WSF2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197573.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -2154,9 +2154,9 @@ export const users = [
     bronzeData: [
       {
         char: "",
-        fTeam: "LSF1",
+        fTeam: "Croacia",
         sTeam: "LSF2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197503.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -2169,8 +2169,8 @@ export const users = [
         sTeam: "Croacia",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197573.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197503.png",
-        fScore: "",
-        sScore: "",
+        fScore: 2,
+        sScore: 1,
       },
       {
         char: "q2",
@@ -2178,8 +2178,8 @@ export const users = [
         sTeam: "Marruecos",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197560.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197551.png",
-        fScore: "",
-        sScore: "",
+        fScore: 3,
+        sScore: 2,
       },
     ],
     quartersData: [
@@ -2852,9 +2852,9 @@ export const users = [
     finalData: [
       {
         char: "",
-        fTeam: "WSF1",
+        fTeam: "Argentina",
         sTeam: "WSF2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197573.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -2863,9 +2863,9 @@ export const users = [
     bronzeData: [
       {
         char: "",
-        fTeam: "LSF1",
+        fTeam: "Croacia",
         sTeam: "LSF2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197503.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -2878,8 +2878,8 @@ export const users = [
         sTeam: "Croacia",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197573.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197503.png",
-        fScore: "",
-        sScore: "",
+        fScore: 3,
+        sScore: 1,
       },
       {
         char: "q2",
@@ -2887,8 +2887,8 @@ export const users = [
         sTeam: "Marruecos",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197560.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197551.png",
-        fScore: "",
-        sScore: "",
+        fScore: 1,
+        sScore: "1*",
       },
     ],
     quartersData: [
@@ -3561,9 +3561,9 @@ export const users = [
     finalData: [
       {
         char: "",
-        fTeam: "WSF1",
+        fTeam: "Argentina",
         sTeam: "WSF2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197573.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -3572,9 +3572,9 @@ export const users = [
     bronzeData: [
       {
         char: "",
-        fTeam: "LSF1",
+        fTeam: "Croacia",
         sTeam: "LSF2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197503.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -3587,8 +3587,8 @@ export const users = [
         sTeam: "Croacia",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197573.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197503.png",
-        fScore: "",
-        sScore: "",
+        fScore: 2,
+        sScore: 1,
       },
       {
         char: "q2",
@@ -3596,8 +3596,8 @@ export const users = [
         sTeam: "Marruecos",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197560.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197551.png",
-        fScore: "",
-        sScore: "",
+        fScore: "3*",
+        sScore: 3,
       },
     ],
     quartersData: [
@@ -4270,9 +4270,9 @@ export const users = [
     finalData: [
       {
         char: "",
-        fTeam: "WSF1",
+        fTeam: "Argentina",
         sTeam: "WSF2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197573.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -4281,9 +4281,9 @@ export const users = [
     bronzeData: [
       {
         char: "",
-        fTeam: "LSF1",
+        fTeam: "Croacia",
         sTeam: "LSF2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197503.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -4296,8 +4296,8 @@ export const users = [
         sTeam: "Croacia",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197573.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197503.png",
-        fScore: "",
-        sScore: "",
+        fScore: 2,
+        sScore: 1,
       },
       {
         char: "q2",
@@ -4305,8 +4305,8 @@ export const users = [
         sTeam: "Marruecos",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197560.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197551.png",
-        fScore: "",
-        sScore: "",
+        fScore: 3,
+        sScore: 2,
       },
     ],
     quartersData: [
@@ -4979,9 +4979,9 @@ export const users = [
     finalData: [
       {
         char: "",
-        fTeam: "WSF1",
+        fTeam: "Argentina",
         sTeam: "WSF2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197573.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -4990,9 +4990,9 @@ export const users = [
     bronzeData: [
       {
         char: "",
-        fTeam: "LSF1",
+        fTeam: "Croacia",
         sTeam: "LSF2",
-        fFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
+        fFlag: "https://cdn-icons-png.flaticon.com/512/197/197503.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/2072/2072130.png",
         fScore: "",
         sScore: "",
@@ -5005,8 +5005,8 @@ export const users = [
         sTeam: "Croacia",
         fFlag: "https://cdn-icons-png.flaticon.com/512/197/197573.png",
         sFlag: "https://cdn-icons-png.flaticon.com/512/197/197503.png",
-        fScore: "",
-        sScore: "",
+        fScore: 3,
+        sScore: 0,
       },
       {
         char: "q2",
